@@ -5,7 +5,7 @@ Currently, I am watching on the following list of sources:
 - IEEE
   - [Signal Processing Society](#Signal-Processing-Society)
   - [Control Systems Society](#Control-Systems-Society)
-  - [Robotics & Automation Society](#Robotics-&-Automation-Society)
+  - [Robotics & Automation Society](#Robotics-\&-Automation-Society)
 ## IEEE
 ### Signal Processing Society
 ### Control Systems Society
